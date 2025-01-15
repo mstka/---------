@@ -1,0 +1,31 @@
+{
+    "students": {
+      "Student X":{
+        "subjects": ["Math"],
+        "required_sessions": {
+          "Math": 2
+        },
+        "available_schedule": {
+          "2025-01-15": ["10:00-11:00", "14:00-15:00"],
+          "2025-01-17": ["10:00-11:00"]
+        },
+        "preferred_coaches": ["Coach A", "Coach B"],
+        "ng_coaches": ["Coach D"]
+      },
+      "Student Y":{
+        "subjects": ["Science", "English"],
+        "required_sessions": {
+          "Science": 2,
+          "English": 1
+        },
+        "available_schedule": {
+          "2025-01-16": ["13:00-14:00", "15:00-16:00"],
+          "2025-01-18": ["13:00-14:00"],
+          "2025-01-21": ["13:00-14:00"]
+        },
+        "preferred_coaches": ["Coach D"],
+        "ng_coaches": []
+      }
+    }
+  }
+  

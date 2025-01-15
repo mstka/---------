@@ -1,0 +1,9 @@
+{
+    "shift_conditions": {
+      "max_seats": 10,
+      "coach_student_ratio": [1, 2],
+      "gap_between_sessions": "minimized",
+      "session_distribution": "even"
+    }
+  }
+  
